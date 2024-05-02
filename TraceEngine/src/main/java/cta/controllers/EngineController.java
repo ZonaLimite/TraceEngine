@@ -67,6 +67,7 @@ public class EngineController {
 			break;
 		case "selectConsulta":
 			re.selectConsulta(param);
+			//devolver AckKnowledge
 			break;
 		default:
 
